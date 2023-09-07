@@ -6,7 +6,12 @@ function App() {
     <>
       <div>
         <header className={styles.header}>
-          <h1>Namaste</h1>
+          <h1>Do something new on this page</h1>
+          {/* <h2>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias,
+            perferendis iste. Earum doloremque libero mollitia voluptate aliquid
+            maiores molestiae quia.
+          </h2> */}
         </header>
         <a href="https://www.google.com/">
           {" "}
