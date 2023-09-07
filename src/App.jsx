@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <header className={styles.header}>
-          <h1>Do something new on this page</h1>
+          <h1>My country my pride</h1>
           {/* <h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias,
             perferendis iste. Earum doloremque libero mollitia voluptate aliquid
